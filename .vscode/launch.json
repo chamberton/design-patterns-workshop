@@ -1,0 +1,161 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "creational.builder.Main",
+            "projectName": "DesignPatterns-master_3255a26b"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "DesignPatterns-master_3255a26b"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "creational.factory.Main",
+            "projectName": "DesignPatterns-master_3255a26b"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "behavioral.iterator.separate.Main",
+            "projectName": "DesignPatterns-master_3255a26b"
+        },
+        {
+            "type": "java",
+            "name": "Main(1)",
+            "request": "launch",
+            "mainClass": "behavioral.iterator.single.Main",
+            "projectName": "DesignPatterns-master_3255a26b"
+        },
+        {
+            "type": "java",
+            "name": "Main(2)",
+            "request": "launch",
+            "mainClass": "behavioral.observer.Main",
+            "projectName": "DesignPatterns-master_3255a26b"
+        },
+        {
+            "type": "java",
+            "name": "Main(3)",
+            "request": "launch",
+            "mainClass": "behavioral.state.Main",
+            "projectName": "DesignPatterns-master_3255a26b"
+        },
+        {
+            "type": "java",
+            "name": "Main(4)",
+            "request": "launch",
+            "mainClass": "behavioral.strategy.Main",
+            "projectName": "DesignPatterns-master_3255a26b"
+        },
+        {
+            "type": "java",
+            "name": "Main(5)",
+            "request": "launch",
+            "mainClass": "creational.factory.abstr.Main",
+            "projectName": "DesignPatterns-master_3255a26b"
+        },
+        {
+            "type": "java",
+            "name": "Main(6)",
+            "request": "launch",
+            "mainClass": "creational.factory.method.Main",
+            "projectName": "DesignPatterns-master_3255a26b"
+        },
+        {
+            "type": "java",
+            "name": "Main(7)",
+            "request": "launch",
+            "mainClass": "creational.prototype.abstr.Main",
+            "projectName": "DesignPatterns-master_3255a26b"
+        },
+        {
+            "type": "java",
+            "name": "Main(8)",
+            "request": "launch",
+            "mainClass": "creational.prototype.inter.Main",
+            "projectName": "DesignPatterns-master_3255a26b"
+        },
+        {
+            "type": "java",
+            "name": "Main(9)",
+            "request": "launch",
+            "mainClass": "creational.singleton.classic.Main",
+            "projectName": "DesignPatterns-master_3255a26b"
+        },
+        {
+            "type": "java",
+            "name": "Main(10)",
+            "request": "launch",
+            "mainClass": "creational.singleton.eager.Main",
+            "projectName": "DesignPatterns-master_3255a26b"
+        },
+        {
+            "type": "java",
+            "name": "Main(11)",
+            "request": "launch",
+            "mainClass": "creational.singleton.synchro.Main",
+            "projectName": "DesignPatterns-master_3255a26b"
+        },
+        {
+            "type": "java",
+            "name": "Main(12)",
+            "request": "launch",
+            "mainClass": "structural.adapter.inter.Main",
+            "projectName": "DesignPatterns-master_3255a26b"
+        },
+        {
+            "type": "java",
+            "name": "Main(13)",
+            "request": "launch",
+            "mainClass": "structural.adapter.object.Main",
+            "projectName": "DesignPatterns-master_3255a26b"
+        },
+        {
+            "type": "java",
+            "name": "Main(14)",
+            "request": "launch",
+            "mainClass": "structural.bridge.Main",
+            "projectName": "DesignPatterns-master_3255a26b"
+        },
+        {
+            "type": "java",
+            "name": "Main(15)",
+            "request": "launch",
+            "mainClass": "structural.composite.Main",
+            "projectName": "DesignPatterns-master_3255a26b"
+        },
+        {
+            "type": "java",
+            "name": "Main(16)",
+            "request": "launch",
+            "mainClass": "structural.decorator.Main",
+            "projectName": "DesignPatterns-master_3255a26b"
+        },
+        {
+            "type": "java",
+            "name": "Main(17)",
+            "request": "launch",
+            "mainClass": "structural.facade.Main",
+            "projectName": "DesignPatterns-master_3255a26b"
+        }
+    ]
+}
